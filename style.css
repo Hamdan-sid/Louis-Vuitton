@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 88px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    background-color: white;
+}
+.icon{
+    height: 16px;
+    width: 16px;
+    margin-left: 44px;
+    margin-top: 7px;
+}
+.menu{
+    width: 36px;
+    height: 16px;
+    margin-left: 14px;
+    margin-top: 7px;
+}
+.mennnu{
+    font-size: 12px;
+    color: #000000;
+    font-weight: 100;
+    padding-top: 1.5px;
+}
+.search{
+    height:32px ;
+    width: 88px;
+    display: flex;
+    align-items: center;
+    margin-left: 28px;
+    margin-top: 7px;
+}
+.ser{
+    font-size: 12px;
+    color: #000;
+    font-weight: 100;
+    padding-left: 14px;
+}
+.logo{
+    height: 56px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 245px;
+}
+.logtxt{
+    color: #000;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+.call{
+    height: 32px;
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 300px;
+}
+.calus{
+    font-size: 12px;
+    padding-left: 17px;
+    padding-top: 6.5px;
+}
+#heart{
+    padding-left: 10px;
+}
+#user{
+    padding-right: 7px;
+}
+.herosection{
+    background-image: url("dog.webp");
+    background-size: cover;
+    height: 450px; 
+}
+.fjl{
+    font-size: 11px;
+    padding-left: 585px;
+    padding-top: 300px;
+    color: white;
+    font-family: sans-serif;
+}
+.lala{
+    font-size: 25.5px;
+    padding-left: 485px;
+    padding-top: 20px;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.Discover{
+    font-size: 13px;
+    padding-left: 565px;
+    padding-top: 15px;
+    color: white;
+    text-decoration: underline;
+}
+.explore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 36px;
+    margin-bottom: 30px;
+    font-weight: 100;
+    letter-spacing: 0.85px;
+}
+.shop1{
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.first{
+    background-image: url("img1.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.same{
+    text-align: center;
+    padding-top: 305px;
+}
+.second{
+    background-image: url("img2.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.third{
+    background-image: url("img3.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.fourth{
+    background-image: url("img4.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.shop2{
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.first1{
+    background-image: url("img5.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.second2{
+    background-image: url("img6.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.third3{
+    background-image: url("img7.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.fourth4{
+    background-image: url("img8.webp");
+    background-size: cover;
+    height: 290px;
+    width: 22.5%;
+}
+.womens{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10px;
+    padding-top: 75px;
+}
+.lv{
+    font-size: 27px;
+    font-family: sans-serif;
+    font-weight: 350;
+    text-align: center;
+    padding-top: 7px;
+    letter-spacing: 0.7px;
+}
+.dtl{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 13px;
+    text-decoration: underline;
+}
+.hero2{
+    background-image: url("secondhero.webp");
+    background-size: cover;
+    height: 600px;
+    margin-top: 50px;
+}
+.shopx{
+  height: 330px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 70px;
+  margin-bottom: 15px;
+}
+.bagx{
+    background-image: url("bag.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+#heartx{
+    padding-left: 233px;
+    padding-top: 19.5px;
+}
+.xyz{
+    padding-top: 307px;
+    text-align: left;
+    font-size: 13px;
+}
+.pantx{
+    background-image: url("pant.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.shoex{
+    background-image: url("shoe.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.glassesx{
+    background-image: url("glasses.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.hero3{
+    background-image: url("hero3.webp");
+    background-size: cover;
+    height: 560px;
+    margin-top: 50px;
+}
+.jacketx{
+    background-image: url("jacket.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.joggersx{
+    background-image: url("joggers.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.handyx{
+    background-image: url("handy.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.capx{
+    background-image: url("cap.avif");
+    background-size: cover;
+    height: 330px;
+    width: 21.5%;
+    background-color:  rgb(225, 225, 225);
+}
+.lvs{
+    text-align: center;
+    font-size: 27.5px;
+    padding-top: 115px;
+    font-family: sans-serif;
+}
+.lvstext{
+    height: 40px;
+    width: 530px;
+    margin-left: 350px;
+    margin-top: 15px;
+    
+}
+.para{
+    font-size: 16px;
+    color: #767676;
+    text-align: center;
+    line-height: 1.36rem;
+}
+.giftsection{
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:60px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 50px;
+}
+.gift1s{
+    background-image: url("gift1.webp");
+    background-size: cover;
+    height: 400px;
+    width: 30%;
+}
+.gifttext{
+    font-size: 15px ;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 420px;
+}
+.gifttext2{
+    font-size: 13px ;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 12px;
+    text-decoration: underline;
+}
+.gift2s{
+    background-image: url("gift2.webp");
+    background-size: cover;
+    height: 400px;
+    width: 30%;
+}
+.gift3s{
+    background-image: url("gift3.webp");
+    background-size: cover;
+    height: 400px;
+    width: 30%;
+}
+.footer{
+    height: 376px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.foot1{
+    height: 305px;
+    width: 300px;
+}
+.gap{
+    padding-top: 20px;
+}
+#help{
+    font-size: 10px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+#samee{
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 1.4rem;
+}
+.footpanel2{
+    height: 170px;
+}
+.panel2first{
+    height: 60px;
+    display: flex;
+    margin-top: 40px;
+}
+.lang{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 200px;
+    margin-left: 70px;
+}
+.items{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 300px;
+    height: 50px;
+    margin-left: 670px;
+}
+.enditems{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #767676;
+}
+.englishhh{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #767676;
+    padding-left: 15px;
+    text-decoration: underline;
+}
+.endlogo{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.ending{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 570;
+    letter-spacing: 1px;
+}
+hr{
+    color: #767676;
+}
